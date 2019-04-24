@@ -203,7 +203,6 @@ public class MapsActivity extends AppCompatActivity
                 }
             }
         });
-
     }
 
     private void addGeofence() {
